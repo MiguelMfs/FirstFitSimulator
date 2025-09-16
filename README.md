@@ -1,8 +1,8 @@
-# 🖥 First Fit Memory Allocation Simulator
+# First Fit Memory Allocation Simulator
 
 Este é um projeto simples em **Java** que simula a estratégia de alocação de memória **First Fit**.
 
-## 🚀 Como funciona
+##  Como funciona
 - A memória é representada por um vetor de `boolean`.
   - `true` → slot livre
   - `false` → slot ocupado
