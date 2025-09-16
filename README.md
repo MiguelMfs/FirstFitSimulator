@@ -1,4 +1,4 @@
-# 🖥️ First Fit Memory Allocation Simulator
+# 🖥 First Fit Memory Allocation Simulator
 
 Este é um projeto simples em **Java** que simula a estratégia de alocação de memória **First Fit**.
 
@@ -15,5 +15,3 @@ Este é um projeto simples em **Java** que simula a estratégia de alocação de
   - O algoritmo **First Fit** busca o primeiro espaço contíguo disponível
   - Processos finalizados liberam memória
   - É exibido o estado atual da RAM (`L` = livre, `X` = ocupado)
-
-## 📂 Estrutura do projeto
